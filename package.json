@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "vanilla-framework": "^3.15.1"
+  }
+}
